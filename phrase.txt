@@ -1,6 +1,11 @@
 # I worked with a partner on this project. Her/his name is:
-
+    # I worked by myself on this project.
 
 # Put your reassembled phrase here:
+    # I unfortunately was not able to produce the correctly reassembled phrase due
+    # to continuously getting a message in the terminal stating that there is "No message in the queue"
+    # when trying to run my Python file. My code in the python file attempts to loop through all 10 messages,
+    # store the word and order values in a dictionary, print out the correctly reassembled phrase, and delete all messages at the end,
+    # but unfortunately, it was unsuccessful. I am not sure why this error keeps occurring. Thank you.
 
 
