@@ -59,8 +59,6 @@ for i in range(10):
         except ClientError as e:
             print(e.response['Error']['Message'])
 
-    # increment i each iteration through the for loop
-    i = i + 1
 
 # Trigger the function
 if __name__ == "__main__":
