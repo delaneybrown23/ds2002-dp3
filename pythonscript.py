@@ -48,7 +48,7 @@ for i in range(10):
                 print(f"Word: {word}")
 
                 # Storing the word and order values as a dictionary pair
-                message_dictionary = [{"order":order, "word": word}]
+                message_dictionary = [{"order": order, "word": word}]
 
             # If there is no message in the queue, print a message and exit    
             else:
